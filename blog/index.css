@@ -422,6 +422,11 @@ footer{
     font-family: var(--Playfair);
     font-size: 50px;
 }
+#indg h2{
+    text-align: center;
+    font-family: var(--Playfair);
+    font-size: 30px;
+}
 #indg img{
     width: 50%;
     height: 35rem;
