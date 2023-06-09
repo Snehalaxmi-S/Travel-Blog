@@ -538,4 +538,16 @@ footer{
     width: 100%;
     margin-bottom: 30px;
 }
+#indg{
+    margin: 0 25px;
+    background-color: #FFDEB4;
+}
+#indg{
+    margin: 0 50px;
+    background-color: #FFDEB4;
+}
+#indg img{
+    width: 100%;
+    height: 35rem;
+}
 }
