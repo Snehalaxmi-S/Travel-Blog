@@ -450,12 +450,12 @@ footer{
         margin-right: auto;
     }
     #indg{
-        margin: 0 25px;
+        margin: 0 15px;
         background-color: #FFDEB4;
     }
     #indg img{
-        width: 25rem;
-        height: 20rem;
+        width: 20rem;
+        height: 27rem;
     }
 }
 @media only screen and (min-width: 768px){
@@ -484,15 +484,15 @@ footer{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 2rem;
-    }
-    #indg{
-        margin: 0 25px;
+    }#indg{
+        margin: 0 15px;
         background-color: #FFDEB4;
     }
     #indg img{
-        width: 25rem;
-        height: 20rem;
+        width: 20rem;
+        height: 27rem;
     }
+
     
 }
 
@@ -538,12 +538,12 @@ footer{
 		padding-left: 20px;
 	}
     #indg{
-        margin: 0 25px;
+        margin: 0 15px;
         background-color: #FFDEB4;
     }
     #indg img{
-        width: 25rem;
-        height: 20rem;
+        width: 20rem;
+        height: 27rem;
     }
 }
 
@@ -562,12 +562,13 @@ footer{
     width: 100%;
     margin-bottom: 30px;
 }
+
 #indg{
-    margin: 0 25px;
+    margin: 0 15px;
     background-color: #FFDEB4;
 }
 #indg img{
-    width: 25rem;
-    height: 20rem;
+    width: 20rem;
+    height: 27rem;
 }
 }
