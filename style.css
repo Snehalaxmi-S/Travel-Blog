@@ -449,6 +449,14 @@ footer{
         margin-left: auto;
         margin-right: auto;
     }
+    #indg{
+        margin: 0 25px;
+        background-color: #FFDEB4;
+    }
+    #indg img{
+        width: 25rem;
+        height: 20rem;
+    }
 }
 @media only screen and (min-width: 768px){
     
@@ -476,6 +484,14 @@ footer{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 2rem;
+    }
+    #indg{
+        margin: 0 25px;
+        background-color: #FFDEB4;
+    }
+    #indg img{
+        width: 25rem;
+        height: 20rem;
     }
     
 }
@@ -521,6 +537,14 @@ footer{
 		text-align: left;
 		padding-left: 20px;
 	}
+    #indg{
+        margin: 0 25px;
+        background-color: #FFDEB4;
+    }
+    #indg img{
+        width: 25rem;
+        height: 20rem;
+    }
 }
 
 @media screen and (min-width: 1200px){
@@ -542,12 +566,8 @@ footer{
     margin: 0 25px;
     background-color: #FFDEB4;
 }
-#indg{
-    margin: 0 50px;
-    background-color: #FFDEB4;
-}
 #indg img{
-    width: 100%;
-    height: 35rem;
+    width: 25rem;
+    height: 20rem;
 }
 }
